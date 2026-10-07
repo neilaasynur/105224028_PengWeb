@@ -33,7 +33,7 @@ Berikut skor Lighthouse pada halaman utama
 ![Penilaian skor Lighthouse utama](./image/skor%20lighthouse%20halaman%20utama.png)   
 Berikut skor Lighthouse pada halaman latihan awal
 ![Penilaian skor Lighthouse halaman latihan awal](./image/penilaiain%20audit%20awal.png)   
-Dari gambar diatas, terlihat bahwa ada 3 daftar audit yang gagal, yaitu:
+Dari gambar diatas, terlihat bahwa ada beberapa daftar audit yang gagal, yaitu:
 - Buttons do not have an accessible name    
 Hal ini dikarenakan oleh adanya sebuah tombol yang tidak memiliki nama. Hal ini akan akan menyebabkan screen reader tidak dapat membacakan isi halaman web dengan web, sedangkan fitur ini berguna untuk membantu orang tunanetra. 
 - Image elements do not have [alt] attributes   
